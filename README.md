@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, AWS, and Cloud Native Computing!
 
-- 🔭 I’m currently working on a Full Stack Developer!
+- 🔭 I’m currently working as a Full Stack Developer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
