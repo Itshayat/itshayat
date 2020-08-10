@@ -18,8 +18,6 @@
 
 ## <br />
 
-<img align="left" alt="itshayat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 [website]: https://itshayat.com
 [twitter]: https://twitter.com/itshayatoffical
 [youtube]: https://youtube.com/itshayat
