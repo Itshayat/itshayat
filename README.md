@@ -1,4 +1,4 @@
-### Hi there, I'm Faisal - Hayat [Itshayat][website] 👋
+### Hi there, I'm Faisal saleh Hayat 👋
 
 ## I'm a Full Stack Developer, AWS, and Cloud Native Computing!
 
