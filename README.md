@@ -1,8 +1,8 @@
-<h1 align="center">Hi There👋, I'm Faisal saleh Hayat</h1>
-<h3 align="center">I'm a DevOps Engineer, AWS, and Microsoft AD!</h3>
+<h1 align="center">Hi There👋, I'm Faisal Saleh Hayat</h1>
+<h3 align="center">I'm a DevOps Engineer, AWS, and Microsoft AD!, Web Developer</h3>
 
 #### 🤔 Who Am I!?
-Experienced Wordpress Developer with a demonstrated history of working in the internet industry. Skilled in WordPress, Windows Server, WordPress Design, Amazon Web Services (AWS), and Cloud Computing. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from University of Agriculture, Peshawar. 
+Experienced Wordpress Developer with a demonstrated history of working in the internet industry. Skilled in DevOps, WordPress, Windows Server, WordPress Design, Amazon Web Services (AWS), Microsoft AD, and Cloud Computing. Strong engineering professional with a Bachelor of Technology - Bechlor in Computer Science from University of Agriculture, Peshawar. 
 
 - 🔭 I’m currently working as a DevOps Engineer!
 - 🌱 I’m currently learning everything 🤣
