@@ -2,11 +2,11 @@
 
 ## I'm a DevOps Engineer, AWS, and Microsoft AD!
 
-- 🔭 I’m currently working as a Full Stack Developer!
+- 🔭 I’m currently working as a DevOps Engineer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Learn New things.
+- ⚡ Fun fact: I love to Learn New things & Share.
 
 ### Connect with me:
 
