@@ -1,6 +1,6 @@
 ### Hi there, I'm Faisal saleh Hayat 👋
 
-## I'm a Full Stack Developer, AWS, and Cloud Native Computing!
+## I'm a DevOps Engineer, AWS, and Microsoft AD!
 
 - 🔭 I’m currently working as a Full Stack Developer!
 - 🌱 I’m currently learning everything 🤣
