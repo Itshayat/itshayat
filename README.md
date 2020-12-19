@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Cloud and DevOps Architect |Blogger |Student!.</h3>
 
 #### 🤔 Who Am I!?
-Experienced Cloud and DevOps with a demonstrated history of working in the internet industry. Skilled in DevOps, WordPress, Windows Server, , Amazon Web Services (AWS), Microsoft AD,Googel Cloud and Cloud Computing. Strong engineering professional with a Bachelor of Technology - Bechlor in Computer Science from University of Agriculture, Peshawar. 
+Experienced Cloud and DevOps with a demonstrated history of working in the internet industry. Skilled in DevOps, WordPress, Windows Server, Amazon Web Services (AWS), Microsoft AD, Google Cloud, and Cloud Computing. Strong engineering professional with a Bachelor of Technology - Bachelor in Computer Science from the University of Agriculture, Peshawar.
 
 - 🔭 I’m currently working as a Cloud and DevOps Architect |Blogger |Student!
 - 🌱 I’m currently learning everything 🤣
