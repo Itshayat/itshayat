@@ -1,8 +1,5 @@
 <h1 align="center">Hi There👋, I'm Faisal Saleh Hayat</h1>
-<h3 align="center">I'm a Cloud and DevOps Architect |Blogger |Student!.</h3> <p align="left">
-  <br><img src="https://badges.pufler.dev/visits/Itshayat/Itshayat/"><img src="https://badges.pufler.dev/years/Itshayat/">
-</p>
-
+<h3 align="center">I'm a Cloud and DevOps Architect |Blogger |Student!.</h3> <img src="https://badges.pufler.dev/visits/Itshayat/Itshayat/"><img src="https://badges.pufler.dev/years/Itshayat/">
 #### 🤔 Who Am I!?
 Experienced Cloud and DevOps with a demonstrated history of working in the internet industry. Skilled in DevOps, WordPress, Windows Server, Amazon Web Services (AWS), Microsoft AD, Google Cloud, and Cloud Computing. Strong engineering professional with a Bachelor of Technology - Bachelor in Computer Science from the University of Agriculture, Peshawar.
 
